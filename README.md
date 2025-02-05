@@ -37,7 +37,7 @@ IDE: Android Studio
  │   ├── 📂 src/main  
  │   │   ├── 📂 java/com/example/languagetranslator  
  │   │   │   ├── MainActivity.kt  
- │   │   │   ├── TranslatorHelper.kt  
+ │   │   │   ├── ModelLanguage.kt  
  │   │   ├── 📂 res/layout  
  │   │   │   ├── activity_main.xml  
  │   │   ├── 📂 res/values  
